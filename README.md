@@ -3,4 +3,4 @@
 
 Native javascript
 
-Visit Here -> https://sidneywebcollections.000webhostapp.com/shugtc/
+Visit Here -> https://sidneywebcollection.000webhostapp.com/shugtc/
